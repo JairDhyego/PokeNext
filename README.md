@@ -1,6 +1,6 @@
 ## Projeto em NextJS
 
-Link para visualizar: https://poke-next-alpha.vercel.app
+Link para visualizar o projeto: https://poke-next-alpha.vercel.app
 Link do vídeo ensinando: https://www.youtube.com/watch?v=UIg8MAzxtlg&list=PLnDvRpP8BnezfJcfiClWskFOLODeqI_Ft&index=28
 
 
